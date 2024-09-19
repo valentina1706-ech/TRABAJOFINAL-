@@ -126,7 +126,6 @@ El proyecto **RapidSSalud** es un software diseñado para optimizar la gestión 
 
 ## **7.	Plan de proyecto**
 
-#@markdown ### Usar el código a continuación para crear el diagrama de Gantt por Tarea
 df = pd.DataFrame([
     dict(Tarea="Clonar El Repositorio", FechaInicio='2024-09-19', FechaFin='2024-09-21', Responsable='Carlos'),
     dict(Tarea="Cargar los datos al repositorio", FechaInicio='2024-09-20', FechaFin='2024-09-25', Responsable='Valentina'),
