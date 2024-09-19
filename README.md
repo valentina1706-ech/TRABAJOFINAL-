@@ -92,9 +92,9 @@ Tengo 22 años, me gusta mucho el deporte, la pogramacion, videojuegos y siempre
 Tengo 18 años ,las cosas que más me gustan son leer ,ver series y hacer postres
 
 ## **2.	Vínculos académicos y descripción**
- **Carlos Torres**
+ **Carlos Torres** ,
  **Valentina Echeverry Ruiz**
-Pertenecemos al 4° Semestre de Ingenieria Industrial es nuestro unico vinculo académico.  
+Pertenecemos al 4° Semestre de Ingenieria Industrial y es nuestro unico vinculo académico.  
 
 
 ## **3.	Nombre del proyecto y detalles**
