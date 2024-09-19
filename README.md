@@ -15,7 +15,7 @@
         </tr>
         <tr>
             <td align="center">
-                <h1><b>Trabajo Final - lo voy a dejar asi</b></h1>
+                <h1><b>Trabajo Final - RapidSSalud</b></h1>
             </td>
         </tr>
         <tr>
