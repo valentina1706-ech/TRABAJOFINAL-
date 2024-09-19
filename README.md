@@ -126,6 +126,27 @@ El proyecto **RapidSSalud** es un software diseñado para optimizar la gestión 
 
 ## **7.	Plan de proyecto**
 
-Describe las actividades, el cronograma (Diagrama de Gantt) y el presupuesto del proyecto.
-*   El presupuesto debe tener en cuenta que no se pagará en dinero sino en tiempo de práctica de formación. Es decir, si el grupo del trabajo final lo componen tres estudiantes e invierten un total de 50 horas, estas serán pagadas a valor de práctica profesional. 1 SMLV.
+df = pd.DataFrame([
+    dict(Tarea="Clonar El Repositorio", FechaInicio='2024-09-19', FechaFin='2024-09-21', Responsable='Carlos'),
+    dict(Tarea="Cargar los datos al repositorio", FechaInicio='2024-09-20', FechaFin='2024-09-25', Responsable='Valentina'),
+    dict(Tarea="Diseñar la interfaz", FechaInicio='2024-09-30', FechaFin='2024-10-03', Responsable='Carlos'),
+    dict(Tarea="Testear la interfaz", FechaInicio='2024-10-04', FechaFin='2024-10-07', Responsable='Valentina'),
+    dict(Tarea="Validar los Datos de la EPS ", FechaInicio='2024-10-07', FechaFin='2024-10-07', Responsable='Carlos'),
+    dict(Tarea="Mostrar los estados de las citas", FechaInicio='2024-10-08', FechaFin='2024-10-10', Responsable='Carlos'),
+    dict(Tarea="Manejar excepciones y errores", FechaInicio='2024-10-14', FechaFin='2024-10-17', Responsable='Carlos'),
+    dict(Tarea="Testear las modificaciones", FechaInicio='2024-10-18', FechaFin='2024-10-21', Responsable='Valentina'),
+    dict(Tarea="Pruebas y validacion del sistema", FechaInicio='2024-11-04', FechaFin='2024-11-07', Responsable='Valentina,Carlos'),
+    dict(Tarea="Entrega Final", FechaInicio='2024-11-15', FechaFin='2024-11-24', Responsable='Valentina,Carlos'),
+])
+df = df.sort_values(by='Tarea')
+fig = px.timeline(
+    df,
+    x_start="FechaInicio",
+    x_end="FechaFin",
+    y="Tarea",
+    color='Responsable',
+    category_orders={'Tarea': sorted(df['Tarea'].tolist(), reverse=True)}  # Ordenar las tareas alfabéticamente
+)
+fig.update_yaxes(autorange="reversed")
+fig.show()
 
