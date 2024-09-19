@@ -14,7 +14,7 @@
             </td>
         </tr>
         <tr>
-            <td aling="center">
+            <td align="center">
                 <h1><b>Trabajo Final - lo voy a dejar asi</b></h1>
             </td>
         </tr>
