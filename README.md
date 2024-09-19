@@ -44,7 +44,8 @@
 </div>
 
 <br>
-#  **Descripción del problema a solucionar -Software gestión turnos**
+
+# **Descripción del problema a solucionar -Software gestión turnos**
 
 La EPS PailaSalud está interesada en crear un programa para la gestión de turnos y atenciones debido a que actualmente el procedimiento se realiza manualmente en donde los pacientes deben estar sentados y esperando el servicio, sin ningún tipo de atención preferencial o clasificada. Este procedimiento afecta el rendimiento del servicio y afecta el desempeño de la atención.
 
