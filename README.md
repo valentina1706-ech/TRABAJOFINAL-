@@ -4,7 +4,7 @@
     <thead>
         <tr>
             <td rowspan="3">
-                <img alt="Wanda" height="200px" src="https://raw.githubusercontent.com/carlostorres970/TRABAJOFINAL-/refs/heads/main/images/wanda.png" hspace="10px" vspace="0px">
+                <img alt="Logo" height="200px" src="https://raw.githubusercontent.com/carlostorres970/TRABAJOFINAL-/refs/heads/main/images/WhatsApp%20Image%202024-09-19%20at%205.15.24%20PM.jpeg" hspace="10px" vspace="0px">
             </td>
             <td align="center">
                 <h1><b>Programación y Algoritmia</b></h1>
