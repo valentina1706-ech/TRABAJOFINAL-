@@ -60,6 +60,7 @@ Crear un programa de consola visualmente amigable al usuario, en donde permita g
 ## Actas de entendimiento y compromiso.
 
 Los integrantes del grupo deben definir su participación y responsabilidad mediante actas de entendimiento. Estas se describen a continuación:
+
 *   ### Objetivo de entendimiento y compromiso
 >Este procedimiento tiene como objetivo establecer las normas y directrices para la creación de actas de entendimiento, colaboración y responsabilidad en trabajos grupales académicos. Busca promover un ambiente de trabajo colaborativo y respetuoso, asegurando que todos los miembros del grupo comprendan y acuerden sus roles y responsabilidades.
 
@@ -85,19 +86,24 @@ El entregable debe ser realizado en un repositorio de GitHub y debidamente organ
 El repositorio debe tener lo siguientes procesos debidamente reportados.
 
 ## **1.   Integrantes**
-En el repositorio del proyecto debe existir un archivo README.md en donde con Markdown detalle los nombres de los integrantes y una breve descripción.
+# **Luis Carlos Oliveros Torres:**
+Tengo 22 años, me gusta mucho el deporte, la pogramacion, videojuegos y siempre estoy escuchando musica. 
+# **Valentina Echeverry Ruiz**
+Tengo 18 años ,las cosas que más me gustan son leer ,ver series y hacer postres
 
 ## **2.	Vínculos académicos y descripción**
+# **Carlos Torres**
+Pertenezco al 4° Semestre de Ingenieria Industrial 
 
-Todos los integrantes deben registrar el programa al cual pertenece, una descripción con habilidades y fortalezas de cada uno.
 
 ## **3.	Nombre del proyecto y detalles**
-
-Describir el proyecto en pocas líneas y asignarle un nombre con una foto representativa del nombre del proyecto (no es una foto de los integrantes).
+Nuestro Proyecto se llama **RapidSSalud** será un programa lo mas sencillo y facil de usar para lograr el buen funcionamiento de la misma y que todas las personas de todas las edades puedan usarlarla con un facil acceso y muy intuitiva.
+   <img alt="Logo" height="200px" src="https://raw.githubusercontent.com/carlostorres970/TRABAJOFINAL-/refs/heads/main/images/WhatsApp%20Image%202024-09-19%20at%205.15.24%20PM.jpeg" hspace="10px" vspace="0px">
 
 ## **4.	Licencia del software**
 
-Definir la licencia con la cual registra el software. https://chooser-beta.creativecommons.org/
+¡<p xmlns:cc="http://creativecommons.org/ns#" >Este trabajo está licenciado bajo <a href="https://creativecommons.org/licenses/by-nc-nd/4.0/?ref=chooser-v1" target="_blank" rel="license noopener noreferrer" style="display:inline-block;">CC BY-NC-ND 4.0<img style="height:22px!¡importante;margin-left:3px;vertical-align:text-bottom;" src="https://mirrors.creativecommons.org/presskit/icons/cc.svg?ref=chooser-v1" alt=""><img style="height:22px!¡importante;margin-left:3px;vertical-align:text-bottom;" src="https://mirrors.creativecommons.org/presskit/icons/by.svg?ref=chooser-v1" alt=""><img style="height:22px!importante;margin-left:3px;vertical-align:text-bottom;" src="https://mirrors.creativecommons.¿org/presskit/icons/nc.svg?¡ref=chooser-v1" alt=""><img style="height:22px!importante;margin-left:3px;vertical-align:text-bottom;" src="https://mirrors.creativecommons.org/presskit/icons/nd.svg?ref=chooser-v1" alt=""></a></p>
+
 ## **5.	Reporte de visión**
 
 Proporciona una descripción general del software, sus objetivos y beneficios
