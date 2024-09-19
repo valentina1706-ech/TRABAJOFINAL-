@@ -93,7 +93,8 @@ Tengo 18 años ,las cosas que más me gustan son leer ,ver series y hacer postre
 
 ## **2.	Vínculos académicos y descripción**
 # **Carlos Torres**
-Pertenezco al 4° Semestre de Ingenieria Industrial 
+# **Valentina Echeverry Ruiz**
+Pertenecemos al 4° Semestre de Ingenieria Industrial es nuestro unico vinculo académico.  
 
 
 ## **3.	Nombre del proyecto y detalles**
@@ -106,13 +107,22 @@ Nuestro Proyecto se llama **RapidSSalud** será un programa lo mas sencillo y fa
 
 ## **5.	Reporte de visión**
 
-Proporciona una descripción general del software, sus objetivos y beneficios
+El proyecto **RapidSSalud** es un software diseñado para optimizar la gestión de citas y turnos en centros de salud, brindando un sistema eficiente y accesible para usuarios de todas las edades. Su principal objetivo es garantizar un funcionamiento fluido y ordenado de los servicios de salud, permitiendo a los pacientes gestionar sus citas de manera rápida y sin complicaciones. La interfaz será altamente intuitiva, lo que asegurará que cualquier persona, sin importar su experiencia tecnológica, pueda utilizarla fácilmente. Este enfoque no solo mejora la experiencia del usuario, sino que también incrementa la eficiencia del servicio.
 
 ## **6.	Especificación de requisitos**
 
-Describe los requisitos funcionales y no funcionales del software.
-*   Los requisitos funcionales definen las acciones específicas, comportamientos, y operaciones que el software debe ejecutar para satisfacer las necesidades del usuario final.
-*   Los requisitos no funcionales especifican criterios que pueden usarse para juzgar la operación del sistema, más allá de los comportamientos específicos. Esto incluye aspectos como el rendimiento, seguridad, usabilidad, fiabilidad, y compatibilidad.
+### **Requisitos Funcionales**
+1. **Consulta de citas**: El programa debe permitir al usuario ingresar su nombre y obtener información sobre su cita médica, indicando si tiene una cita programada, si ha excedido la fecha límite o si no tiene vínculo con la EPS.
+2. **Verificación de citas**: El sistema debe verificar en una base de datos existente si el usuario tiene citas asignadas, sin posibilidad de modificaciones.
+3. **Mensajes de estado**: El software debe mostrar mensajes claros según el estado del usuario: cita confirmada, cita no disponible, cita vencida, o usuario no registrado en la EPS.
+4. **Interfaz de consulta**: El sistema debe ofrecer una interfaz simple donde el usuario solo ingrese su nombre y obtenga la información relevante sin realizar otras acciones.
+
+### **Requisitos No Funcionales**
+1. **Usabilidad**: La interfaz debe ser extremadamente fácil de usar para todas las edades, enfocada en la simplicidad y rapidez de la consulta.
+2. **Rendimiento**: El sistema debe procesar las consultas de los usuarios de manera rápida, proporcionando una respuesta inmediata sobre el estado de la cita.
+3. **Seguridad**: Aunque el sistema no permite cambios, debe garantizar la protección de la información personal y de las citas, asegurando que solo los usuarios puedan ver su estado.
+4. **Fiabilidad**: El programa debe funcionar de manera estable, asegurando que los usuarios puedan consultar su información sin interrupciones.
+5. **Compatibilidad**: El software debe ser compatible con los dispositivos más comunes y sistemas operativos, sin requerir instalaciones adicionales complicadas.
 
 ## **7.	Plan de proyecto**
 
