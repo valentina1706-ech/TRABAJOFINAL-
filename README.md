@@ -86,14 +86,14 @@ El entregable debe ser realizado en un repositorio de GitHub y debidamente organ
 El repositorio debe tener lo siguientes procesos debidamente reportados.
 
 ## **1.   Integrantes**
-# **Luis Carlos Oliveros Torres:**
+**Luis Carlos Oliveros Torres:**
 Tengo 22 años, me gusta mucho el deporte, la pogramacion, videojuegos y siempre estoy escuchando musica. 
-# **Valentina Echeverry Ruiz**
+**Valentina Echeverry Ruiz**
 Tengo 18 años ,las cosas que más me gustan son leer ,ver series y hacer postres
 
 ## **2.	Vínculos académicos y descripción**
-# **Carlos Torres**
-# **Valentina Echeverry Ruiz**
+ **Carlos Torres**
+ **Valentina Echeverry Ruiz**
 Pertenecemos al 4° Semestre de Ingenieria Industrial es nuestro unico vinculo académico.  
 
 
