@@ -126,4 +126,4 @@ El proyecto **RapidSSalud** es un software diseñado para optimizar la gestión 
 
 ## **7.	Plan de proyecto**
 
- <img alt="cronograma" height="200px" src="https://raw.githubusercontent.com/carlostorres970/TRABAJOFINAL-/refs/heads/main/images/cronograma.png">
+ <img alt="cronograma" height="450px" src="https://raw.githubusercontent.com/carlostorres970/TRABAJOFINAL-/refs/heads/main/images/cronograma.png">
