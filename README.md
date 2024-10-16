@@ -128,7 +128,7 @@ El proyecto **RapidSSalud** es un software diseñado para optimizar la gestión 
 
  <img alt="cronograma" height="450px" src="https://raw.githubusercontent.com/carlostorres970/TRABAJOFINAL-/refs/heads/main/images/cronograma.png">
 
-# PRESUPUESTO**
+### **PRESUPUESTO**
 
 El presupuesto total para trabajar en un proyecto de 71 horas, con base en el Salario Mínimo Legal Vigente (SMLV) de 2024 en Colombia, sería de 343.167 COP aproximadamente. ​
 
