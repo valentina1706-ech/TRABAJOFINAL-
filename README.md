@@ -132,5 +132,70 @@ El proyecto **RapidSSalud** es un software diseñado para optimizar la gestión 
 
 El presupuesto total para trabajar en un proyecto de 71 horas, con base en el Salario Mínimo Legal Vigente (SMLV) de 2024 en Colombia, sería de 343.167 COP aproximadamente. ​
 
+### **8. versionado del software**
+
+---
+
+### **Plan de Versionado**
+
+#### **Versión 1.0.0: Diseño del menú inicial**
+- Implementación del menú principal con las opciones básicas:
+  1. Consultar cita (sin funciones internas).
+  2. Menú administrador (sin funciones internas).
+  3. Salir del sistema.
+
+---
+
+#### **Versión 1.0.1: Creación del menú administrador**
+- Submenú con las siguientes opciones iniciales:
+  1. Agregar usuario.
+  2. Agregar cita.
+  3. Confirmar o cancelar cita.
+  4. Imprimir reporte de datos.
+  5. Volver al menú principal.
+  6. Salir completamente del sistema.
+
+---
+
+#### **Versión 1.1.0: Gestión básica de usuarios**
+- Implementación de la función `agregar_usuario`:
+  - Registro de usuarios con cédula, nombre y contraseña.
+
+---
+
+#### **Versión 1.1.1: Gestión básica de citas**
+- Implementación de la función `agregar_cita`:
+  - Asignación de citas a usuarios registrados.
+  - Validación para verificar que el usuario exista antes de asignar una cita.
+
+---
+
+#### **Versión 1.2.0: Confirmar o cancelar citas**
+- Función `gestionar_cita` para:
+  - Confirmar citas asignadas.
+  - Cancelar citas existentes.
+
+---
+
+#### **Versión 1.2.1: Generación de reportes**
+- Implementación de la función `imprimir_reporte`:
+  - Reporte en consola de usuarios registrados.
+  - Reporte en consola de citas asignadas.
+
+---
+
+#### **Versión 1.3.0: Consultar cita**
+- Implementación de la función `consultar_cita`:
+  - Visualización de la información de la cita asociada a una cédula ingresada.
+  - Mensajes claros si el usuario no tiene cita asignada.
+
+---
+
+#### **Versión 1.3.1: Datos prueba**
+- Se añadieron usuarios y citas de pruebas para testear el programa:
+  - Cédulas.
+  - Fechas de citas asumidas como futuras.
+
+---
 
 
