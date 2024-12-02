@@ -197,5 +197,7 @@ El presupuesto total para trabajar en un proyecto de 71 horas, con base en el Sa
   - Fechas de citas asumidas como futuras.
 
 ---
-### **9. algoritmo**
+### **9. Algoritmo**
+
+[Ver el código principal aquí](./codigo.py)
 
